@@ -30,10 +30,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminRana01&layout=compact)](https://github.com/JaiminRana01/JaiminRana01)
-
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
