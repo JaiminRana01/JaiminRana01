@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ItzJaiminRana | Twitter" width="22px" src="./logo/twitter.svg" />][twitter]
-[<img align="left" alt="jaimin-rana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jaimin-rana | LinkedIn" width="22px" src="./logo/linkedin.svg" />][linkedin]
 [<img align="left" alt="jaimin._rana | Instagram" width="22px" src="./logo/instagram.svg" />][instagram]
 
 <br />
